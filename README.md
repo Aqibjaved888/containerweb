@@ -1,2 +1,2 @@
-# dockerdeepone
-Sample application to be used by network nuts students for docker labs
+# containeweb
+Sample application to be used by network nuts students for container labs
