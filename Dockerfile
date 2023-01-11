@@ -1,3 +1,4 @@
+#This is a simple dockerfile
 FROM ubi8/ubi:latest
 MAINTAINER networknuts <info@networknuts.net>
 RUN yum install httpd -y
